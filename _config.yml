@@ -1,1 +1,5 @@
 theme: jekyll-theme-cayman
+markdown: markdown
+title 3: Equipo 3
+description: Curso Fundamentos de Biodiseño
+show_downloads: true
